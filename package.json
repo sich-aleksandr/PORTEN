@@ -1,0 +1,18 @@
+{
+  "name": "porten",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1",
+    "bootstrap-4-grid": "^3.4.0",
+    "parcel": "^2.0.1",
+    "sass": "^1.44.0"
+  }
+}
